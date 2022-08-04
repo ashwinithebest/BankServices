@@ -1,0 +1,40 @@
+.navbar-container{
+    /* display:inline-content; */
+    /* background-color: #0c7676; */
+}
+nav{
+    height: 70px;
+    background-color: aqua;
+}
+nav div img{
+    float:left;
+    /* background-color: red; */
+}
+.list{
+    display:inline-block;
+    /* float: right; */
+/* position:relative; */
+/* margin-left: 200px;   */
+}
+.list-item{
+    display:inline;
+   margin:10px;
+   /* margin-top:-50px; */
+    /* background-color: #766b0c; */
+}
+
+.search-icon{
+    float:right;
+    /* display:inline; */
+    /* background-color: #766b0c;  */
+    /* margin-top:-20px ; */
+}  
+.nav-button{
+    float:right;
+    /* display:inline-content; */
+}
+
+.button-group{
+float:right;
+}
+
