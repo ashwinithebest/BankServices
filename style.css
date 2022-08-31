@@ -87,8 +87,8 @@ section>div>div>img {
 }
 
 .hero-container-right {
-    position: relative;
-    bottom: 300px;
+    position: absolute;
+    top: 50px;
     left: 40%;
     width: 800px;
     /* right:1px; */
